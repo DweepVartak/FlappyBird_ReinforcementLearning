@@ -1,0 +1,6 @@
+.vs/
+logs/
+train/
+#Visualizations_Tensorboard/
+Clean_AI_Bird copy.ipynb
+*.mp4
